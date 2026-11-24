@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.runner",
+  "name": "Code Task Runner",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Build, test, and run tasks directly inside Matn with interactive terminal runner panel",
+  "category": "tools",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-runner"
+}
